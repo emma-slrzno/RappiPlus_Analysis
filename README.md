@@ -63,4 +63,4 @@ Evaluar el desempeño del servicio **RappiPlus** para apoyar decisiones de negoc
 ## Contacto
 
 - LinkedIn: (https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
-- Perfil de Tableau Public: https://public.tableau.com/views/Project_17885024557020/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Public tableau: (https://public.tableau.com/app/profile/emma.solorzano7415/vizzes)
