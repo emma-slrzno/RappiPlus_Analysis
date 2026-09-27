@@ -58,3 +58,9 @@ Evaluar el desempeño del servicio **RappiPlus** para apoyar decisiones de negoc
 - Construcción de un **funnel de conversión** y análisis de **retención por cohortes** usando SQL avanzado (CTEs, funciones de ventana como `LAG` y `FIRST_VALUE`).
 - Diseño y evaluación de un **test A/B** con prueba estadística de proporciones (Z-test), interpretando correctamente el resultado en términos de significancia estadística y no solo de diferencia numérica.
 - Storytelling con datos: traducir hallazgos técnicos en un dashboard de Tableau orientado a la toma de decisiones de negocio.
+
+
+## Contacto
+
+- LinkedIn: (https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
+- Perfil de Tableau Public: https://public.tableau.com/views/S11TripleTen/OverviewEjecutivo?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
