@@ -7,6 +7,7 @@
 ---
 
 <a id="es"></a>
+[![Vista previa del Dashboard](Images/Dashboard.png)](https://public.tableau.com/views/Project_17885024557020/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # RappiPlus: de datos a decisiones de negocio
 
@@ -183,6 +184,7 @@ jupyter notebook S12_Proyecto_Final.ipynb
 ---
 
 <a id="en"></a>
+[![Vista previa del Dashboard](Images/Dashboard.png)](https://public.tableau.com/views/Project_17885024557020/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # RappiPlus: From Data to Business Decisions
 
