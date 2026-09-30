@@ -173,3 +173,7 @@ jupyter notebook S12_Proyecto_Final.ipynb
 └── README.md
 ```
 # Contacto
+
+- LinkedIn: https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/
+- Perfil de Tableau Public: https://public.tableau.com/app/profile/emma.solorzano7415/vizzes
+
