@@ -1,3 +1,8 @@
+# Proyecto RappiPlus: de datos a decisiones de negocio
+[![Vista previa del Dashboard](Images/Dashboard.png)](https://public.tableau.com/views/Project_17885024557020/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+👉 [Ver el dashboard interactivo en Tableau Public](https://public.tableau.com/views/Project_17885024557020/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 # RappiPlus: de datos a decisiones de negocio
 
 Proyecto final de análisis de datos que evalúa el desempeño del servicio **RappiPlus** de punta a punta: calidad de datos, rentabilidad, embudo de conversión, retención de usuarios y validación estadística de un experimento A/B, con los resultados comunicados en un dashboard de BI.
@@ -167,3 +172,4 @@ jupyter notebook S12_Proyecto_Final.ipynb
 ├── marketing_clean.csv        # Gasto de marketing limpio
 └── README.md
 ```
+# Contacto
