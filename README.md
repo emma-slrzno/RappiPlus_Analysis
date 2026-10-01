@@ -178,6 +178,10 @@ jupyter notebook S12_Proyecto_Final.ipynb
 ├── marketing_clean.csv        # Gasto de marketing limpio
 └── README.md                  # Bilingüe (ES/EN)
 ```
+# Contacto
+
+- LinkedIn: https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/
+- Perfil de Tableau Public: https://public.tableau.com/app/profile/emma.solorzano7415/vizzes
 
 [⬆️ Volver arriba](#top) · [🇬🇧 Read in English](#en)
 
@@ -355,5 +359,9 @@ jupyter notebook S12_Proyecto_Final.ipynb
 ├── marketing_clean.csv        # Clean marketing spend
 └── README.md                  # Bilingual (ES/EN)
 ```
+# Contact
 
+- LinkedIn: https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/
+- Tableau Public profile: https://public.tableau.com/app/profile/emma.solorzano7415/vizzes
+  
 [⬆️ Back to top](#top) · [🇪🇸 Leer en español](#es)
